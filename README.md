@@ -1,2 +1,2 @@
 # Bachelor Thesis: Business Intelligence in SMEs – Agile Design and Implementation of a Business Intelligende System
-This Bachelorthesis is written by the repository owner as part of the [Bachelor of Science program in Informationsystems (BSc.)](https://www.wi.studium.fau.de/bachelor/) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.eu/)
+This [Bachelorthesis](https://github.com/schlingling/bachelor-thesis/blob/8c98c0a0bb174242bc61f5dd1e512b12e75bdd27/Bachelor_thesis_Schilling_Johannes.pdf) is written by the repository owner as part of the [Bachelor of Science program in Informationsystems (BSc.)](https://www.wi.studium.fau.de/bachelor/) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.eu/)
